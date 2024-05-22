@@ -4,8 +4,8 @@ AW:
   code: AW
   unofficial_names:
   geo:
-    latitude:
-    longitude:
+    latitude: 12.511063
+    longitude: -69.974224
     min_latitude:
     min_longitude:
     max_latitude:
@@ -21,8 +21,8 @@ BQ1:
   code: BQ1
   unofficial_names:
   geo:
-    latitude:
-    longitude:
+    latitude: 12.1796
+    longitude: -68.2581
     min_latitude:
     min_longitude:
     max_latitude:
@@ -102,8 +102,8 @@ BQ2:
   code: BQ2
   unofficial_names:
   geo:
-    latitude:
-    longitude:
+    latitude: 17.6325
+    longitude: -63.2375
     min_latitude:
     min_longitude:
     max_latitude:
@@ -174,8 +174,8 @@ BQ3:
   code: BQ3
   unofficial_names:
   geo:
-    latitude:
-    longitude:
+    latitude: 17.5085293
+    longitude: -62.9954769
     min_latitude:
     min_longitude:
     max_latitude:
@@ -251,8 +251,8 @@ CW:
   code: CW
   unofficial_names:
   geo:
-    latitude:
-    longitude:
+    latitude: 12.2133943
+    longitude: -69.04085
     min_latitude:
     min_longitude:
     max_latitude:
